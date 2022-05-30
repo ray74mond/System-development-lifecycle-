@@ -7,10 +7,10 @@ background-color:#FBE7A1;
 }
 </style>
 </head>
-<table class="myfirst"><tr><td><div>CONTENTS:<br><ul><li>SEPARATION OF FAMILY</li>
-<li>SHORTAGE OF SOCIAL SERVICES</li>
-<li>LACK OF COMMUNICATION </li>
-<li>LACK OF PROPER LEADERS </li></ul>
+<table class="myfirst"><tr><td><div>CONTENTS:<br><ul><li><a href="separationoffamily.github.com" style="text-decoration:none;"> SEPARATION OF FAMILY</a></li>
+<li><a href="shortage.github.com" style="text-decoration:none;">SHORTAGE OF SOCIAL SERVICES</a></li>
+<li><a href="lackoffamily.github.com" style="text-decoration:none;">LACK OF COMMUNICATION </a></li>
+<li><a href="properleader.github.com" style="text-decoration:none;">LACK OF PROPER LEADERS </a></li></ul>
 </div></td>
 <td><div class="myfirst">CONTENTS:<br><ul><li>SEPARATION OF FAMILY</li>
 <li>SHORTAGE OF SOCIAL SERVICES</li>
@@ -26,10 +26,10 @@ background-color:#FBE7A1;
 </div></td>
 
 <td>
-<div class="myfirst">CONTENTS:<br><ol><li>POVERTY</li>
-<li>SHORTAGE OF TREATMENTS.</li>
-<li>LACK OF GOOD INFRASTRUCTURES. </li>
-<li>LACK OF WATER SUPPLY. </li></ol>
+<div class="myfirst">CONTENTS:<br><ol><li><a href="poverty.github.com" style="text-decoration:none;">POVERTY</a></li>
+<li><a href="treatment.github.com" style="text-decoration:none;">SHORTAGE OF TREATMENTS.</a></li>
+<li><a href="infrastructure.github.com" style="text-decoration:none;">LACK OF GOOD INFRASTRUCTURES.</a> </li>
+<li><a href="supply.github,com" style="text-decoration:none;">LACK OF WATER SUPPLY.</a> </li></ol>
 </div></td>
 
 </tr>
