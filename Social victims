@@ -32,13 +32,17 @@ background-color:#FBE7A1;
 <li>LACK OF WATER SUPPLY. </li></ol>
 </div></td>
 
-
-
-
-
-
 </tr>
 </table>
+
+
+<head>
+<style>
+.img{margin:40px;
+}
+</style>
+</head>
+<div class="img"><img width="300px" style="margin:50px;" alt="Seminar"></img><img width="300px" style="margin:50px;" alt="Concerts"></img><img  width="300px" style="margin:50px;" alt="Exhibitions"></img></div>
 
 
 
