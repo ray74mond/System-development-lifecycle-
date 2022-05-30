@@ -42,7 +42,7 @@ background-color:#FBE7A1;
 }
 </style>
 </head>
-<div class="img"><img width="300px" style="margin:50px;" alt="Seminar"></img><img width="300px" style="margin:50px;" alt="Concerts"></img><img  width="300px" style="margin:50px;" alt="Exhibitions"></img></div>
+<div class="img"><picture><img width="300px" style="margin:50px;" alt="Seminar"></img><img width="300px" style="margin:50px;" alt="Concerts"></img><img  width="300px" style="margin:50px;" alt="Exhibitions"></img></picture></div>
 
 
 
