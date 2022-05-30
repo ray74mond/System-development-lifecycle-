@@ -1,41 +1,31 @@
 <html>
-<head><center><font size="40px">SOCIAL VICTIMS</font></center></head> 
+<head><center><font size="40px" COLOR="RED">SOCIAL VICTIMS</font></center></head> 
 <head>
 <style>
-.myfirst{float-left:40px;
+.myfirst,td{float-left:40px;
+background-color:FBE7A1;
 }
 </style>
 </head>
-<div class="myfirst">CONTENTS:<br><ul><li>SEPARATION OF FAMILY</li>
+<table class="myfirst"><tr><td><div>CONTENTS:<br><ul><li>SEPARATION OF FAMILY</li>
+<li>SHORTAGE OF SOCIAL SERVICES</li>
+<li>LACK OF COMMUNICATION </li>
+<li>LACK OF PROPER LEADERS </li></ul>
+</div></td>
+<td><div class="myfirst">CONTENTS:<br><ul><li>SEPARATION OF FAMILY</li>
 <li>SHORTAGE OF SOCIAL SERVICES</li>
 <li>LACK OF COMMUNICATION </li>
 <li>LACK OF PROPER LEADERS </li></ul>
 </div>
-
-<head>
-<style>
-.myfirst{float-left:40px;
-}
-</style>
-</head>
-<div class="myfirst">CONTENTS:<br><ul><li>SEPARATION OF FAMILY</li>
-<li>SHORTAGE OF SOCIAL SERVICES</li>
-<li>LACK OF COMMUNICATION </li>
-<li>LACK OF PROPER LEADERS </li></ul>
-</div>
-
-
-<head>
-<style>
-.myfirst{float-left:40px;
-}
-</style>
-</head>
+</td>
+<td>
 <div class="myfirst">CONTENTS:<br><ol><li>SEPARATION OF FAMILY</li>
 <li>SHORTAGE OF SOCIAL SERVICES</li>
 <li>LACK OF COMMUNICATION </li>
 <li>LACK OF PROPER LEADERS </li></ol>
-</div>
+</div></td>
+</tr>
+</table>
 
 
 
