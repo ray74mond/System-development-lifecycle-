@@ -1,9 +1,9 @@
 <html>
-<head><center><font size="40px" COLOR="RED">SOCIAL VICTIMS</font></center></head> 
+<head><center><font size="40px" COLOR="RED" style="font-family:aharoni><marquee> SOCIAL VICTIMS</marquee></font></center></head> 
 <head>
 <style>
 .myfirst,td{float-left:40px;
-background-color:FBE7A1;
+background-color:#FBE7A1;
 }
 </style>
 </head>
@@ -24,6 +24,19 @@ background-color:FBE7A1;
 <li>LACK OF COMMUNICATION </li>
 <li>LACK OF PROPER LEADERS </li></ol>
 </div></td>
+
+<td>
+<div class="myfirst">CONTENTS:<br><ol><li>POVERTY</li>
+<li>SHORTAGE OF TREATMENTS.</li>
+<li>LACK OF GOOD INFRASTRUCTURES. </li>
+<li>LACK OF WATER SUPPLY. </li></ol>
+</div></td>
+
+
+
+
+
+
 </tr>
 </table>
 
