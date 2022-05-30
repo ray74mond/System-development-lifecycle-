@@ -6,5 +6,38 @@
 }
 </style>
 </head>
-<div class="myfirst">CONTENTS:</div>
+<div class="myfirst">CONTENTS:<br><ul><li>SEPARATION OF FAMILY</li>
+<li>SHORTAGE OF SOCIAL SERVICES</li>
+<li>LACK OF COMMUNICATION </li>
+<li>LACK OF PROPER LEADERS </li></ul>
+</div>
+
+<head>
+<style>
+.myfirst{float-left:40px;
+}
+</style>
+</head>
+<div class="myfirst">CONTENTS:<br><ul><li>SEPARATION OF FAMILY</li>
+<li>SHORTAGE OF SOCIAL SERVICES</li>
+<li>LACK OF COMMUNICATION </li>
+<li>LACK OF PROPER LEADERS </li></ul>
+</div>
+
+
+<head>
+<style>
+.myfirst{float-left:40px;
+}
+</style>
+</head>
+<div class="myfirst">CONTENTS:<br><ol><li>SEPARATION OF FAMILY</li>
+<li>SHORTAGE OF SOCIAL SERVICES</li>
+<li>LACK OF COMMUNICATION </li>
+<li>LACK OF PROPER LEADERS </li></ol>
+</div>
+
+
+
+
 </html>
