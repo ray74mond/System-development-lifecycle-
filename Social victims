@@ -24,28 +24,39 @@ background-color:#FBE7A1;
 <li>LACK OF COMMUNICATION </li>
 <li>LACK OF PROPER LEADERS </li></ol>
 </div></td>
-
 <td>
 <div class="myfirst">CONTENTS:<br><ol><li><a href="poverty.github.com" style="text-decoration:none;">POVERTY</a></li>
 <li><a href="treatment.github.com" style="text-decoration:none;">SHORTAGE OF TREATMENTS.</a></li>
 <li><a href="infrastructure.github.com" style="text-decoration:none;">LACK OF GOOD INFRASTRUCTURES.</a> </li>
 <li><a href="supply.github,com" style="text-decoration:none;">LACK OF WATER SUPPLY.</a> </li></ol>
 </div></td>
-
 </tr>
 </table>
 <br>
 </br>
-
 <head>
 <style>
 .img{margin:40px;
 }
 </style>
 </head>
-<div class="img"><picture><img width="300px" style="margin:50px;" alt="Seminar"></img><img width="300px" style="margin:50px;" alt="Concerts"></img><img  width="300px" style="margin:50px;" alt="Exhibitions"></img></picture></div>
-
-
-
-
+<div class="img"><picture>
+<img width="300px" style="margin:50px;" alt="Seminar"></img>
+<img width="300px" style="margin:50px;" alt="Concerts"></img>
+<img  width="300px" style="margin:50px;" alt="Exhibitions"></img>
+</picture>
+</div>
+<br>
+</br>
+<head>
+<style>
+.img{margin:40px;
+}
+</style>
+</head>
+<div class="img">
+<video width="300px" style="margin:50px;" controls><source src="koala.mp4" type="videos/mp4"></video>
+<video width="300px" style="margin:50px;" controls><source src="koala.mp4" type="videos/mp4"></video>
+<video width="300px" style="margin:50px;" controls><source src="koala.mp4" type="videos/mp4"></video>
+</div>
 </html>
